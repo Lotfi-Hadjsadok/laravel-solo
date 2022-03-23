@@ -1,0 +1,16 @@
+{
+    "name": "mac/php-project-solo",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lotfi-Hadjsadok",
+            "email": "83740857+Lotfi-Hadjsadok@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
